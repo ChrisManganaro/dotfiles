@@ -9,3 +9,5 @@ alias ll="ls -l"
 alias grep="grep --color=auto"
 alias duf="du -sh * | sort -hr"
 alias less="less -r"
+
+alias t="todo.sh "
